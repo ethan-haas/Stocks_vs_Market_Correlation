@@ -1,2 +1,2 @@
 # Stocks_vs_Market_Correlation
-Stocks vs Market Correlation
+This code uses the yfinance and pandas libraries to retrieve historical stock data for a list of tickers and the S&P 500 index. It then calculates the daily returns for each stock and the S&P 500, and compares the returns using correlation. The ticker and correlation for each stock are then appended to a dataframe, which is displayed at the end. This code could be used to determine which stocks have a high correlation with the S&P 500 index.
